@@ -1,0 +1,18 @@
+{
+  "H0": 70.0,
+  "Om": 0.3,
+  "Ok": 0.0,
+  "w0": -1.0,
+  "wa": 0.0,
+  "M": 0.0,
+  "chi2": 1e+20,
+  "model": "cpl",
+  "free_rd": true,
+  "rd": 147.0,
+  "used_sn_cov": true,
+  "used_bao_cov": true,
+  "used_bao2_cov_block": false,
+  "sn_intrinsic_mag": 0.1,
+  "dof": 1701,
+  "chi2_red": 5.878894767783657e+16
+}
