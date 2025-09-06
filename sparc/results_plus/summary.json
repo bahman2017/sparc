@@ -1,0 +1,15 @@
+{
+  "num_total": 175,
+  "num_success": 165,
+  "alpha_mean": 0.9356584787636405,
+  "alpha_median": 0.7577890807605887,
+  "alpha_min": 3.7312753761768276e-17,
+  "alpha_max": 2.0,
+  "lambda_mean": 31.50628784782476,
+  "lambda_median": 24.07596356690939,
+  "lambda_min": 0.1194469638039589,
+  "lambda_max": 99.99999999984844,
+  "chi2_median": 224.94395013017564,
+  "chi2red_median": 20.898545802517422,
+  "frac_alpha_at_upper": 0.12121212121212122
+}
